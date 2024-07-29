@@ -1,4 +1,8 @@
 # AR-Collaboration-Gamified-Task-Management-and-Integrated-Knowledge-Base
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/a3b1543e-0eb5-4fd2-8280-9fd3342d650b"
+>
+</p>
 This project aims to create a comprehensive system combining augmented reality (AR) collaboration, gamified task management, and an integrated knowledge base. The system is designed to enhance employee engagement, productivity, and knowledge sharing within an organization.
 Here is a professional README file for the project:
 
